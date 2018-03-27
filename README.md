@@ -113,3 +113,8 @@ Maria Cecilia es una mujer feliz tiene 45 años ,cada día procura sentirse y ac
 En los testeos realizados se identificaron los errores al comienzo en la primera pantalla de introducción no estaba bien explicado que era una app de información alimenticia se confundia con una app de compras es por ello que se puso una frase corta explicando aquello , también en las pantallas de categorías se explico mejor por medio de títulos, y se eliminó un icono que no se comprendía bien.
 
 *Guía de testeo* [Guía de testeo](https://drive.google.com/open?id=1MAte39QwdDeSxlMbXWWVFO1KeC0_jJDqYmLHIZc-gH4)
+
+## Conclusión:
+
+Este proyecto junto con los testeos que se alcanzaron a realizar con el producto mínimo viable se puedo observar que los usuarios pudieron navegar en la app pero tuvo algunos detalles que se solucionaron como fue el caso de que hubo una pequeña confusión en creer que era una app de compras de alimentos el testeo fue libre no se dio una tarea ni tampoco se explicó de qué trataba la app la idea era  ver si la entendián  naturalmente , falto mas iteración para validar el resultado de las encuestas y las entrevistas donde se había observado y percibido que las personas de alguna u otra forma se preocupan de su alimentación y que quieren alguna herramienta para poder saber de forma más eficiente.
+
