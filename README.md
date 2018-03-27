@@ -22,3 +22,27 @@ Realización de Encuestas para obtener datos concretos, total de personas que re
 ![image](https://user-images.githubusercontent.com/32287185/37885853-de137ffa-308d-11e8-8cfd-37def5380289.png)
 
 *Documento completo* [Respuesta a encuesta](https://drive.google.com/open?id=1LcauZIVhajTIeal0Ndt02apqwhlr7ARD33VJJu1Hc5Y)
+
+## Hallazgo :
+
+*El 64,2% respondieron que si les gusta informarse y el 35,8% a veces como se muestra en el gráfico.
+
+*La mayoría de los encuestados al preguntar ¿Sientes que pierdes tiempo escogiendo un Alimento envasado con tus gustos o "Ética alimenticia" ? las respuesta de muchos fue que si sentían que perdían tiempo la mayor parte ,otros se daban el tiempo .una de las tantas frases que la gente respondió fueron  ejemplo 
+“Si, por qué la información no está claramente visible, la tipografía es pequeña y en los ingredientes cuesta entender su origen”
+
+“Si, hay veces que sí, ya que primero hay que informarse bien de lo que se está comprando.”
+
+“Gasto tiempo bastante en eso, pero no significa que lo pierda ya que me sirve para conocer más”
+
+“Es difícil encontrar alimentos que de verdad alimenten y que estén en todos lados,es decir que tengan fácil acceso para obtenerlo”
+
+
+Con esta primera aproximación de respuestas de la gente se  comprendió que efectivamente hay personas que sí están interesadas en saber en la composición por ende en los  ingredientes de sus alimentos. 
+
+
+## Entrevista:
+
+Se entrevistó a 6 personas con un rango etario de 23 a 51 años 4 mujeres y 2 hombres. Enlace a guía de entrevista .y  Respuesta entrevistas .
+con la entrevista se validó que las personas de una u otra forma si les importa su alimentación solo una persona no se informaba de ninguna manera alguna vez leyó un envase pero no iba o más bien no se interesaba en saber más de los alimentos  los 6 entrevistados les atraía bastante saber la cantidad de proteínas, hidratos de carbono, grasas ,azúcar de sus alimentos más que los ingredientes propiamente tal.
+
+## Affinity map:
