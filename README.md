@@ -90,6 +90,6 @@ Teniendo estos datos se valida continuar con la investigación de la app enfocad
 ## Problem statement:
 **Primary persona**
 
-![problem solving](https://user-images.githubusercontent.com/32287185/37948815-49262e8e-3168-11e8-8959-d28d4ae03c5c.jpg)
+![problem solving 1](https://user-images.githubusercontent.com/32287185/37949050-54dfeea8-3169-11e8-89ed-d62012c8d779.jpg)
 
 
