@@ -107,3 +107,5 @@ Maria Cecilia es una mujer feliz tiene 45 años ,cada día procura sentirse y ac
 ## Testeo Validación:
 
 En los testeos realizados se identificaron los errores al comienzo en la primera pantalla de introducción no estaba bien explicado que era una app de información alimenticia se confundia con una app de compras es por ello que se puso una frase corta explicando aquello , también en las pantallas de categorías se explico mejor por medio de títulos, y se eliminó un icono que no se comprendía bien.
+
+*Guía de testeo* [Guía de testeo](https://drive.google.com/open?id=1MAte39QwdDeSxlMbXWWVFO1KeC0_jJDqYmLHIZc-gH4)
