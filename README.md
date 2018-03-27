@@ -63,6 +63,12 @@ Las personas por lo general van a los productos conocidos , se fijan en el preci
 
 ## Benchmark:
 
+Se hizo la comparación con 6 aplicaciones habia solo una de ellas que estaba más completa la app Open Food Facts su origen es español su descripción dice así “es una base de datos de productos alimentarios hecha por todos, para todos.
+Puedes usarla para elegir mejores opciones de alimentación, y como se trata de datos abiertos, cualquiera puede aprovecharlos para otros usos” pero el problema es que se usa con el código de barra desde la aplicación  con la cámara del celular se lee el código y automáticamente se obtiene la información pero acá en chile los códigos de barras no cuenta con esa opción. así que no se puede usar al menos en chile con nuestros productos.
+y las otras dos aplicaciones Ingred e Ingredio beta tienen la opción de escanear la etiqueta con la cámara del celular y transformar la foto a texto y de ahí obtener la información de cada ingrediente, pero solo hace eso no da más información y tampoco está la opción de guardar el productos en una base de datos cosa que alguien busque puntualmente un producto sin tener la necesidad de tener que escanearlo  .
+ 
+Teniendo estos datos se valida continuar con la investigación de la app enfocada en obtener información de los ingredientes por medio del escaneo de la foto y la posibilidad de  guardar colaborativamente estos productos en la base de datos como primera etapa luego agregar la opción de tips alimenticios y dietas enfocadas a cada persona individualmente. 
+
 ![benchmark - hoja 1 1 -001](https://user-images.githubusercontent.com/32287185/37948217-88285c40-3165-11e8-9c52-a45673ed4cb8.jpg)
 
 
