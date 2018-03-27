@@ -53,4 +53,8 @@ Se agrupó en 4 puntos , la información, el tiempo que se destina, los problema
 
 ![affinity map 1](https://user-images.githubusercontent.com/32287185/37947759-224f775c-3163-11e8-8a8a-f1b2a9e5a58c.jpg)
 
+## Observación:
+Me dirigí a algunos supermercados a mirar el comportamiento  de las personas al momento de escoger un producto.
+
+
 
