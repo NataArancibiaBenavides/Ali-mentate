@@ -71,6 +71,8 @@ Teniendo estos datos se valida continuar con la investigación de la app enfocad
 
 ![benchmark - hoja 1 1 -001](https://user-images.githubusercontent.com/32287185/37948217-88285c40-3165-11e8-9c52-a45673ed4cb8.jpg)
 
+## Mapa de empatia:
 
+![mapa de empatia](https://user-images.githubusercontent.com/32287185/37948362-31c7aca6-3166-11e8-8655-b7af716619ca.jpg)
 
 
