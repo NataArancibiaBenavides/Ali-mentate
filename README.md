@@ -76,6 +76,7 @@ Teniendo estos datos se valida continuar con la investigación de la app enfocad
 ![mapa de empatia](https://user-images.githubusercontent.com/32287185/37948362-31c7aca6-3166-11e8-8655-b7af716619ca.jpg)
 
 ## User personas:
+**Primary persona**
 
 ![user persona 3](https://user-images.githubusercontent.com/32287185/37948439-b270f86c-3166-11e8-88bb-902be1dd50da.jpg)
 
