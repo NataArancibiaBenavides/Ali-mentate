@@ -80,6 +80,9 @@ Teniendo estos datos se valida continuar con la investigación de la app enfocad
 
 ![user persona 3](https://user-images.githubusercontent.com/32287185/37948439-b270f86c-3166-11e8-88bb-902be1dd50da.jpg)
 
+## Personas secundarias:
+
+![user persona 4](https://user-images.githubusercontent.com/32287185/37948648-83a6af1c-3167-11e8-9059-df385e9e3e2d.jpg)
 
 
 
