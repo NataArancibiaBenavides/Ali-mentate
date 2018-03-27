@@ -92,4 +92,8 @@ Teniendo estos datos se valida continuar con la investigación de la app enfocad
 
 ![problem solving 1](https://user-images.githubusercontent.com/32287185/37949050-54dfeea8-3169-11e8-89ed-d62012c8d779.jpg)
 
+## Storytelling :
+
+Maria Cecilia es una mujer feliz tiene 45 años ,cada día procura sentirse y actuar lo mejor posible ante la vida ,lo más importante para ella es  su calidad de vida le encanta estar informada en especial en temas de salud y alimentación cada vez que sabe de un producto nuevo o poco conocido para ella se informa ingresando en diversas páginas web   también  lee libros de nutrición.Cuando va a un almacén o supermercado le gusta  darse el tiempo de leer los envases pero a veces le cuesta  leer cuando olvida sus lentes , tiene un hijo de 14 años  que de vez en cuando la acompaña  a comprar y es común que   le reclame por el tiempo que destina en leer los envases  pero en el fondo él trata de comprender a su madre , Maria Cecilia usa su celular para googlear algún ingrediente no conocido lo hace en el minuto de escoger sus alimentos por lo general o si no en su hogar  pero necesita algo más eficiente , algo que le optimice su tiempo con lo que se sienta segura al momento de escoger un alimento y que no tenga roces con su hijo . algo que le entregue información detallada de los ingredientes que categorice el producto y que pueda ser partícipe en la información cosa que saque una foto de los ingredientes y estos le entreguen la información precisa , y con algo de colaboración de ella pueda dejar guardada la información y categorizada. 
+
 
