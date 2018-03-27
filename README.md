@@ -87,3 +87,8 @@ Teniendo estos datos se valida continuar con la investigación de la app enfocad
 ![user persona 5](https://user-images.githubusercontent.com/32287185/37948717-c320a5bc-3167-11e8-9764-817acb6584ab.jpg)
 
 
+## Problem statement:
+
+![problem solving](https://user-images.githubusercontent.com/32287185/37948815-49262e8e-3168-11e8-8959-d28d4ae03c5c.jpg)
+
+
