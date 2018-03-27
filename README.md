@@ -99,3 +99,8 @@ Maria Cecilia es una mujer feliz tiene 45 años ,cada día procura sentirse y ac
 ## Mapa arquitectura de la información:
 
 ![arquitectura de la informacion](https://user-images.githubusercontent.com/32287185/37949187-f1ff3b94-3169-11e8-8971-d15216a564a7.jpg)
+
+## Inventario de contenido:
+
+![ai-inventario de contenidos - inventario-001](https://user-images.githubusercontent.com/32287185/37949295-63e1e220-316a-11e8-9911-fc641ff7a22c.jpg)
+
