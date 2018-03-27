@@ -1,7 +1,7 @@
 # Ali-mentate
 App para saber lo que estás consumiendo , se escanean los ingredientes del envase y te entrega la información de cada compuesto, tambíen puedes categorizar el producto . 
 ----------------------------------------------------------------------------------------------------------------------------------------
-# Proyecto
+## Proyecto
 
 ![logo](https://user-images.githubusercontent.com/32287185/37885967-8311f69e-308e-11e8-9e36-9fc7f3ab1d15.png)
 
