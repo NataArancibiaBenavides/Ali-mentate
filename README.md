@@ -106,6 +106,8 @@ Maria Cecilia es una mujer feliz tiene 45 años ,cada día procura sentirse y ac
 
 ## Prototipo:
 
+![introduccion app](https://user-images.githubusercontent.com/32287185/37966807-e9e2e010-319f-11e8-9885-5794b3f5a077.jpg)
+
 *link*[ver prototipo](https://www.figma.com/proto/FvvCd5xoHJRr8FLpWxDN42n7/APP-ALI-mentate?scaling=contain&node-id=13%3A8)
 
 ## Testeo Validación:
