@@ -46,3 +46,9 @@ Se entrevistó a 6 personas con un rango etario de 23 a 51 años 4 mujeres y 2 h
 con la entrevista se validó que las personas de una u otra forma si les importa su alimentación solo una persona no se informaba de ninguna manera alguna vez leyó un envase pero no iba o más bien no se interesaba en saber más de los alimentos  los 6 entrevistados les atraía bastante saber la cantidad de proteínas, hidratos de carbono, grasas ,azúcar de sus alimentos más que los ingredientes propiamente tal.
 
 ## Affinity map:
+
+*Al posicionarce sobre la imagen se puede ver con más detalles*
+
+![affinity map 1](https://user-images.githubusercontent.com/32287185/37947759-224f775c-3163-11e8-8a8a-f1b2a9e5a58c.jpg)
+
+
