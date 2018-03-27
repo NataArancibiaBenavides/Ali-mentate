@@ -58,3 +58,7 @@ Me dirigí a algunos supermercados a mirar el comportamiento  de las personas al
 
 ![super](https://user-images.githubusercontent.com/32287185/37947983-3de6771c-3164-11e8-8203-6c788ebe12dc.jpg)
 
+Las personas por lo general van a los productos conocidos , se fijan en el precio , algunos en los sellos un poco en el envase pero la letra es pequeña y la información al parecer algo confusa por lo que no se centran mucho en eso.
+
+
+
