@@ -47,7 +47,7 @@ con la entrevista se validó que las personas de una u otra forma si les importa
 
 ## Affinity map:
 
-Se agrupó en 4 puntos , la información, el tiempo que se destina, los problemas y los anhelos.identificándose que si se les gustaría una herramienta para obtener información más concreta .
+Se agrupó en 4 puntos , la información, el tiempo que se destina, los problemas y los anhelos.identificándose que efectivamente  les gustaría una herramienta para obtener información más concreta .
 
 *Al posicionarce sobre la imagen se puede ver con más detalles*
 
