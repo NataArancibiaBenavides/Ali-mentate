@@ -56,5 +56,5 @@ Se agrupó en 4 puntos , la información, el tiempo que se destina, los problema
 ## Observación:
 Me dirigí a algunos supermercados a mirar el comportamiento  de las personas al momento de escoger un producto.
 
-
+![super](https://user-images.githubusercontent.com/32287185/37947983-3de6771c-3164-11e8-8203-6c788ebe12dc.jpg)
 
