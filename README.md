@@ -5,6 +5,8 @@ App para saber lo que estás consumiendo , se escanean los ingredientes del enva
 
 ![logo](https://user-images.githubusercontent.com/32287185/37885967-8311f69e-308e-11e8-9e36-9fc7f3ab1d15.png)
 
+Proyecto desarrollado en [Laboratoria](http://www.laboratoria.la "laboratoria")
+
 
 ## Introducción:
 
